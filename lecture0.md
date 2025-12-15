@@ -6,12 +6,12 @@ Lecture 0: Artificial Intelligence
 
 <br><br>
 Prof. Gilles Louppe<br>
-[g.louppe@uliege.be](mailto:g.louppe@uliege.be)
+[sajid.bashir@abasynisb.edu.pk](mailto:sajid.bashir@abasynisb.edu.pk)
 
 ---
 
 class: middle, center
-background-color: #343541
+background-color: #443541
 
 <video src="./figures/lec0/chatgpt.webm" autoplay loop muted width=640 height=640></video>
 
