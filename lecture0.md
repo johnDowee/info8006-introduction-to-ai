@@ -5,7 +5,7 @@ class: middle, center, title-slide
 Lecture 0: Artificial Intelligence
 
 <br><br>
-Prof. Gilles Louppe<br>
+Prof. Sajid Bashir<br>
 [sajid.bashir@abasynisb.edu.pk](mailto:sajid.bashir@abasynisb.edu.pk)
 
 ---
